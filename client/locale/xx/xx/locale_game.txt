@@ -1,0 +1,8 @@
+RESP_PAGE_COUNT	Strona %d / %d
+RESP_AVAILABLE	Dostêpny
+RESP_MOB_TITLE	Podgl¹d wygl¹du celu
+RESP_MOB_TEXT	Gdy opcja jest zaznaczona, po wybraniu celu zobaczysz jego wygl¹d po lewej stronie okna.
+RESP_RESP_TITLE	Podgl¹d mapy
+RESP_RESP_TEXT	Gdy opcja jest zaznaczona, po najechaniu kursorem na przycisk teleportacji uka¿e siê mapa z lokalizacj¹ celu.
+RESP_DROP_TITLE	Informacje o potworze
+RESP_DROP_TEXT	Wciœnij przycisk, aby prze³¹czyæ siê pomiêdzy list¹ lokalizacji celu lub przedmiotów mo¿liwych do zdobycia.

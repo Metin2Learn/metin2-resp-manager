@@ -1,0 +1,5 @@
+RESP_TITLE	Teleportacja do W³adców / Metinów
+RESP_MOB_HEADER	W³adcy / Metiny
+RESP_ERROR_TEXT	Brak danych
+RESP_MINIMAP_BOSS	Pozostali w³adcy
+RESP_MINIMAP_METIN	Pozosta³e metiny

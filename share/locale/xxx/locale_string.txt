@@ -1,0 +1,8 @@
+"<Resp manager> You cannot teleport on this map.";
+"<Teleportacja do celu> Nie mo¿esz przenosiæ siê na tej mapie.";
+
+"<Resp manager> Wait %lu seconds.";
+"<Teleportacja do celu> Poczekaj %lu sekund.";
+
+"<Resp manager> Cannot teleport to target which is not alive.";
+"<Teleportacja do celu> Nie mo¿esz przenieœæ siê do celu, który nie ¿yje.";

@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "public_resp.dds"
+left 360
+top 86
+right 481
+bottom 175

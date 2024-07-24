@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "frames.dds"
+left 700
+top 112
+right 800
+bottom 212
